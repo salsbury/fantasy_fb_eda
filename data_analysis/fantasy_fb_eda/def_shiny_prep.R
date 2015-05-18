@@ -9,7 +9,7 @@ load("ff_df/k_10_14.RData")
 load("ff_df/def_10_14.RData")
 load("ff_df/sched_2014.RData")
 load("ff_df/off_pl_opp.RData")
-
+load("ff_df/byes.RData")
 
 # creating a data frame with all offensive players 
 # and their fantasy points for a given week/year

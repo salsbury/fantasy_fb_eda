@@ -1,5 +1,4 @@
 shinyUI(fluidPage(
-  includeCSS("styles.css"),
   titlePanel(h3("Comparing Fantasy Football Statistics for Two NFL Players")),
   sidebarLayout(
     sidebarPanel(
